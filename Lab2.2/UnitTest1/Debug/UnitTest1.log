@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\KATERYNA\Desktop\OOP\Lab2.2\Lab2.2\UnitTest1\UnitTest1.cpp(15,1): warning C4305: 'argument': truncation from 'double' to 'float'
+     Creating library C:\Users\KATERYNA\Desktop\OOP\Lab2.2\Lab2.2\Debug\UnitTest1.lib and object C:\Users\KATERYNA\Desktop\OOP\Lab2.2\Lab2.2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\KATERYNA\Desktop\OOP\Lab2.2\Lab2.2\Debug\UnitTest1.dll
